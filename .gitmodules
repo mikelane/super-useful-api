@@ -1,0 +1,3 @@
+[submodule "super-useful-api-infrastructure"]
+	path = super-useful-api-infrastructure
+	url = git@github.com:mikelane/super-useful-api-infrastructure.git
